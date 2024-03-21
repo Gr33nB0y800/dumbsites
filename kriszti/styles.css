@@ -41,6 +41,11 @@ main h2 {
   color: #007bff;
 }
 
+.logo img {
+  width: 100px; /* Adjust size as needed */
+  height: auto;
+}
+
 footer {
   margin-top: 20px;
   text-align: center;
