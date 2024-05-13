@@ -43,7 +43,7 @@ footer p {
     font-size: 1.2rem;
 }
 
-#shop button {
+#shop button[type="submit"] {
     background-color: #ffcc00;
     color: #333;
     padding: 0.5rem 1rem;
@@ -52,7 +52,7 @@ footer p {
     cursor: pointer;
 }
 
-#shop button:hover {
+#shop button[type="submit"]:hover {
     background-color: 
         #ffd633;
 }
