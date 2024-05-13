@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial Black', Gadget, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1b1b1b;
+    color: #fff;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+h1, h2 {
+    color: #ffcc00;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+#bio p {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: #333;
+    padding: 1rem 0;
+}
+
+footer p {
+    font-size: 1
+      .2rem;
+}
